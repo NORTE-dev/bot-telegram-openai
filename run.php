@@ -1,5 +1,5 @@
 <?php
-$token = "5826242098:AAHN9yWhWI30ztDBj98dSxzxvjwCUg_g9Pk";
+$token = "";
 $url = 'https://www.bot.norte.dev.br'; // substitua com o endereço do seu arquivo PHP
 $api = 'https://api.telegram.org/bot'.$token;
 
